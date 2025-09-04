@@ -2,7 +2,6 @@
 """
 Project: Merge Sort without Sentinels
 Exercise: CLRS 2.3-7*
-Author: Grzegorz Pieniak
 """
 
 from typing import List
